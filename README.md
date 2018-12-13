@@ -44,7 +44,8 @@ Upon logging in to the app, users view their dashboard - a google map that has t
 * Knex.js
 
 ## Authors
+* [Son Phan](https://github.com/svphan1)
 * [Tyler Adams](https://github.com/tadams9145)
 * [Chris Edgar](https://github.com/verzetem)
 * [Ryan Holly](https://github.com/Ryanholly3)
-* [Son Phan](https://github.com/svphan1)
+
