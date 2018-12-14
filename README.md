@@ -24,7 +24,7 @@ ng serve --open
 ```
 
 ## Description
-Travel app that allows users to plan trips with friends.
+Travel app that allows users to plan trips with friends. This app is currently in progress.
 
 Upon logging in to the app, users view their dashboard - a google map that has their saved travel destinations pinned. Upon clicking the map, the user drops a pin to mark a new location they'd like to travel to. Users can also view the locations that other users have pinned, allowing them to coordinate travel plans.
 
